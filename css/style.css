@@ -80,6 +80,7 @@ body.mega-maxa {
 	text-transform: uppercase;
 	display: inline-block;
 	font-size: 1rem;
+	font-weight: 600;
 	letter-spacing: 2px;
 	cursor: pointer;
 	opacity: 1;
